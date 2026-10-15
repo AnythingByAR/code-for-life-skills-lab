@@ -1,3 +1,3 @@
 # code-for-life-skills-lab
-#ABCDEFG
+# ABCDEFG
 [LIFE SKILLS PRACTICAL](https://Lifestyletoday.com)
